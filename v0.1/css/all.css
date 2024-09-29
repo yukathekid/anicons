@@ -24,7 +24,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.icon-anime-corner:before{
+.icon-anime-corner:before {
   content: "\e901";
 }
 .icon-anibr:before {
