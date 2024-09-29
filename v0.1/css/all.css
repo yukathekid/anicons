@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Font Anicons 1 Solid';
+  font-family: 'Font-Anicons-1';
   src:  url('https://icons.anibr.org/v0.1/fonts/font-anicons.eot?lz5gee');
   src:  url('https://icons.anibr.org/v0.1/fonts/font-anicons.eot?lz5gee#iefix') format('embedded-opentype'),
     url('https://icons.anibr.org/v0.1/fonts/font-anicons.ttf?lz5gee') format('truetype'),
@@ -12,7 +12,7 @@
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'Font Anicons 1 Solid' !important;
+  font-family: 'Font-Anicons-1' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
