@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'font-anicons';
+  font-family: 'Font Anicons 1 Solid';
   src:  url('https://icons.anibr.org/v0.1/fonts/font-anicons.eot?n7ei1l');
   src:  url('https://icons.anibr.org/v0.1/fonts/font-anicons.eot?n7ei1l#iefix') format('embedded-opentype'),
     url('https://icons.anibr.org/v0.1/fonts/font-anicons.ttf?n7ei1l') format('truetype'),
@@ -12,7 +12,7 @@
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'font-anicons' !important;
+  font-family: 'Font Anicons 1 Solid' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -25,11 +25,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 .icon-anime-corner:before {
-  content: "\e901";
-}
-.icon-anibr:before {
   content: "\e900";
 }
 .icon-anime-profile:before {
-  content: "\1f322";
+  content: "\e901";
+}
+.icon-aniplace:before {
+  content: "\e902";
 }
